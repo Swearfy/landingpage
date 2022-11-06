@@ -77,6 +77,8 @@ ul{
 }
 
 .mainimg{
+    min-width: 200px;
+    max-width: 500px;
     width: 500px;
     height: 200px;
 }
